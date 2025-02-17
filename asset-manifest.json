@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vocapod-imageGenerator/static/css/main.6b43fa9a.css",
+    "main.js": "/vocapod-imageGenerator/static/js/main.52268d0b.js",
+    "static/js/453.fc19679f.chunk.js": "/vocapod-imageGenerator/static/js/453.fc19679f.chunk.js",
+    "index.html": "/vocapod-imageGenerator/index.html",
+    "main.6b43fa9a.css.map": "/vocapod-imageGenerator/static/css/main.6b43fa9a.css.map",
+    "main.52268d0b.js.map": "/vocapod-imageGenerator/static/js/main.52268d0b.js.map",
+    "453.fc19679f.chunk.js.map": "/vocapod-imageGenerator/static/js/453.fc19679f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b43fa9a.css",
+    "static/js/main.52268d0b.js"
+  ]
+}
